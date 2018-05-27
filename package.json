@@ -1,0 +1,11 @@
+{
+  "name": "express-parameters",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.10.8",
+    "generate-google-calendar-url": "0.0.2",
+    "ics": "^2.4.1",
+    "replaceall": "^0.1.6"
+  }
+}
